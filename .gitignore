@@ -1,0 +1,8 @@
+Lib/
+Include/
+Scripts/
+__pycache__/
+*.pyc
+checkpoints/
+HAM10000_images_part_1/
+HAM10000_images_part_2/

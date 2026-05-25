@@ -1,0 +1,13 @@
+numpy
+pandas
+Pillow
+scikit-learn
+matplotlib
+torch torchvision torchaudio --index-url 
+https://download.pytorch.org/whl/cu121
+seaborn
+torchvision
+tqdm
+
+
+
