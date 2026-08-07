@@ -1,0 +1,801 @@
+lesion_id,image_id,dx,dx_type,age,sex,localization,path,dx_full,label
+HAM_0006574,ISIC_0030698,bkl,histo,40.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030698.jpg,Benign Keratosis,2
+HAM_0006574,ISIC_0025567,bkl,histo,40.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025567.jpg,Benign Keratosis,2
+HAM_0003021,ISIC_0031468,bkl,histo,75.0,female,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031468.jpg,Benign Keratosis,2
+HAM_0003021,ISIC_0030926,bkl,histo,75.0,female,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030926.jpg,Benign Keratosis,2
+HAM_0004341,ISIC_0031967,bkl,histo,70.0,female,scalp,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031967.jpg,Benign Keratosis,2
+HAM_0004341,ISIC_0031584,bkl,histo,70.0,female,scalp,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031584.jpg,Benign Keratosis,2
+HAM_0003021,ISIC_0032283,bkl,histo,75.0,female,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032283.jpg,Benign Keratosis,2
+HAM_0003021,ISIC_0030005,bkl,histo,75.0,female,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030005.jpg,Benign Keratosis,2
+HAM_0001473,ISIC_0029022,bkl,histo,70.0,male,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0029022.jpg,Benign Keratosis,2
+HAM_0003007,ISIC_0025388,bkl,histo,40.0,female,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025388.jpg,Benign Keratosis,2
+HAM_0003007,ISIC_0028080,bkl,histo,40.0,female,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028080.jpg,Benign Keratosis,2
+HAM_0002957,ISIC_0026153,bkl,histo,70.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026153.jpg,Benign Keratosis,2
+HAM_0002957,ISIC_0025876,bkl,histo,70.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025876.jpg,Benign Keratosis,2
+HAM_0003743,ISIC_0033646,bkl,histo,50.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033646.jpg,Benign Keratosis,2
+HAM_0003743,ISIC_0033592,bkl,histo,50.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033592.jpg,Benign Keratosis,2
+HAM_0003743,ISIC_0033899,bkl,histo,50.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033899.jpg,Benign Keratosis,2
+HAM_0003770,ISIC_0032877,bkl,histo,80.0,male,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032877.jpg,Benign Keratosis,2
+HAM_0003770,ISIC_0034175,bkl,histo,80.0,male,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0034175.jpg,Benign Keratosis,2
+HAM_0003770,ISIC_0033523,bkl,histo,80.0,male,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033523.jpg,Benign Keratosis,2
+HAM_0002928,ISIC_0032665,bkl,histo,80.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032665.jpg,Benign Keratosis,2
+HAM_0002928,ISIC_0033130,bkl,histo,80.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033130.jpg,Benign Keratosis,2
+HAM_0001858,ISIC_0033235,bkl,histo,85.0,male,scalp,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033235.jpg,Benign Keratosis,2
+HAM_0001858,ISIC_0026085,bkl,histo,85.0,male,scalp,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026085.jpg,Benign Keratosis,2
+HAM_0004373,ISIC_0029014,bkl,histo,70.0,female,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0029014.jpg,Benign Keratosis,2
+HAM_0004491,ISIC_0025157,bkl,histo,45.0,male,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025157.jpg,Benign Keratosis,2
+HAM_0005862,ISIC_0031376,bkl,histo,65.0,female,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031376.jpg,Benign Keratosis,2
+HAM_0004114,ISIC_0026844,bkl,histo,75.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026844.jpg,Benign Keratosis,2
+HAM_0004677,ISIC_0027680,bkl,histo,80.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027680.jpg,Benign Keratosis,2
+HAM_0002839,ISIC_0032280,bkl,histo,60.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032280.jpg,Benign Keratosis,2
+HAM_0002839,ISIC_0025982,bkl,histo,60.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025982.jpg,Benign Keratosis,2
+HAM_0004274,ISIC_0025842,bkl,histo,60.0,female,neck,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025842.jpg,Benign Keratosis,2
+HAM_0004491,ISIC_0028846,bkl,histo,45.0,male,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028846.jpg,Benign Keratosis,2
+HAM_0004491,ISIC_0026159,bkl,histo,45.0,male,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026159.jpg,Benign Keratosis,2
+HAM_0007521,ISIC_0032156,bkl,histo,70.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032156.jpg,Benign Keratosis,2
+HAM_0006513,ISIC_0030783,bkl,histo,70.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030783.jpg,Benign Keratosis,2
+HAM_0007513,ISIC_0025297,bkl,histo,75.0,female,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025297.jpg,Benign Keratosis,2
+HAM_0007513,ISIC_0024676,bkl,histo,75.0,female,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024676.jpg,Benign Keratosis,2
+HAM_0004377,ISIC_0030561,bkl,histo,40.0,female,foot,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030561.jpg,Benign Keratosis,2
+HAM_0004105,ISIC_0030007,bkl,histo,85.0,female,hand,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030007.jpg,Benign Keratosis,2
+HAM_0005558,ISIC_0030812,bkl,histo,85.0,male,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030812.jpg,Benign Keratosis,2
+HAM_0005558,ISIC_0029802,bkl,histo,85.0,male,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0029802.jpg,Benign Keratosis,2
+HAM_0006945,ISIC_0026044,bkl,histo,60.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026044.jpg,Benign Keratosis,2
+HAM_0005596,ISIC_0027706,bkl,histo,30.0,female,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027706.jpg,Benign Keratosis,2
+HAM_0003899,ISIC_0029991,bkl,histo,75.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0029991.jpg,Benign Keratosis,2
+HAM_0001536,ISIC_0031449,bkl,histo,45.0,female,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031449.jpg,Benign Keratosis,2
+HAM_0001536,ISIC_0026842,bkl,histo,45.0,female,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026842.jpg,Benign Keratosis,2
+HAM_0001605,ISIC_0024422,bkl,histo,75.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024422.jpg,Benign Keratosis,2
+HAM_0001605,ISIC_0028881,bkl,histo,75.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028881.jpg,Benign Keratosis,2
+HAM_0006827,ISIC_0031702,bkl,histo,70.0,male,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031702.jpg,Benign Keratosis,2
+HAM_0006399,ISIC_0026219,bkl,histo,60.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026219.jpg,Benign Keratosis,2
+HAM_0004801,ISIC_0030365,bkl,histo,50.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030365.jpg,Benign Keratosis,2
+HAM_0003015,ISIC_0032456,bkl,histo,55.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032456.jpg,Benign Keratosis,2
+HAM_0003120,ISIC_0028593,bkl,histo,55.0,female,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028593.jpg,Benign Keratosis,2
+HAM_0003120,ISIC_0029243,bkl,histo,55.0,female,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0029243.jpg,Benign Keratosis,2
+HAM_0006945,ISIC_0028995,bkl,histo,60.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028995.jpg,Benign Keratosis,2
+HAM_0006945,ISIC_0026142,bkl,histo,60.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026142.jpg,Benign Keratosis,2
+HAM_0003205,ISIC_0031287,bkl,histo,75.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031287.jpg,Benign Keratosis,2
+HAM_0003206,ISIC_0032365,bkl,histo,60.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032365.jpg,Benign Keratosis,2
+HAM_0004158,ISIC_0028229,bkl,histo,70.0,female,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028229.jpg,Benign Keratosis,2
+HAM_0003206,ISIC_0025199,bkl,histo,60.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025199.jpg,Benign Keratosis,2
+HAM_0003015,ISIC_0025083,bkl,histo,55.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025083.jpg,Benign Keratosis,2
+HAM_0004630,ISIC_0025292,bkl,histo,85.0,male,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025292.jpg,Benign Keratosis,2
+HAM_0004630,ISIC_0028376,bkl,histo,85.0,male,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028376.jpg,Benign Keratosis,2
+HAM_0004630,ISIC_0026576,bkl,histo,85.0,male,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026576.jpg,Benign Keratosis,2
+HAM_0004660,ISIC_0027504,bkl,histo,80.0,male,scalp,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027504.jpg,Benign Keratosis,2
+HAM_0003392,ISIC_0030240,bkl,histo,70.0,male,scalp,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030240.jpg,Benign Keratosis,2
+HAM_0004389,ISIC_0028121,bkl,histo,65.0,female,chest,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028121.jpg,Benign Keratosis,2
+HAM_0005743,ISIC_0025038,bkl,confocal,60.0,female,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025038.jpg,Benign Keratosis,2
+HAM_0003398,ISIC_0031888,bkl,confocal,85.0,female,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031888.jpg,Benign Keratosis,2
+HAM_0007315,ISIC_0026249,bkl,confocal,75.0,male,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026249.jpg,Benign Keratosis,2
+HAM_0007315,ISIC_0031218,bkl,confocal,75.0,male,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031218.jpg,Benign Keratosis,2
+HAM_0004224,ISIC_0026248,bkl,confocal,80.0,male,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026248.jpg,Benign Keratosis,2
+HAM_0004224,ISIC_0027194,bkl,confocal,80.0,male,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027194.jpg,Benign Keratosis,2
+HAM_0003789,ISIC_0026016,bkl,confocal,55.0,female,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026016.jpg,Benign Keratosis,2
+HAM_0003789,ISIC_0029505,bkl,confocal,55.0,female,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0029505.jpg,Benign Keratosis,2
+HAM_0005896,ISIC_0027735,bkl,confocal,50.0,female,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027735.jpg,Benign Keratosis,2
+HAM_0005896,ISIC_0024814,bkl,confocal,50.0,female,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024814.jpg,Benign Keratosis,2
+HAM_0003789,ISIC_0031277,bkl,confocal,55.0,female,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031277.jpg,Benign Keratosis,2
+HAM_0003789,ISIC_0031853,bkl,confocal,55.0,female,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031853.jpg,Benign Keratosis,2
+HAM_0001642,ISIC_0028490,bkl,confocal,65.0,male,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028490.jpg,Benign Keratosis,2
+HAM_0006064,ISIC_0032111,bkl,consensus,75.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032111.jpg,Benign Keratosis,2
+HAM_0006064,ISIC_0031132,bkl,consensus,75.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031132.jpg,Benign Keratosis,2
+HAM_0003789,ISIC_0029464,bkl,confocal,55.0,female,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0029464.jpg,Benign Keratosis,2
+HAM_0003789,ISIC_0024915,bkl,confocal,55.0,female,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024915.jpg,Benign Keratosis,2
+HAM_0002371,ISIC_0032271,bkl,consensus,50.0,male,chest,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032271.jpg,Benign Keratosis,2
+HAM_0002536,ISIC_0032124,bkl,consensus,70.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032124.jpg,Benign Keratosis,2
+HAM_0005616,ISIC_0029107,bkl,consensus,80.0,male,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0029107.jpg,Benign Keratosis,2
+HAM_0001735,ISIC_0028587,bkl,consensus,80.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028587.jpg,Benign Keratosis,2
+HAM_0006533,ISIC_0028497,bkl,consensus,80.0,male,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028497.jpg,Benign Keratosis,2
+HAM_0000865,ISIC_0028826,bkl,consensus,70.0,male,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028826.jpg,Benign Keratosis,2
+HAM_0001589,ISIC_0030067,bkl,consensus,70.0,male,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030067.jpg,Benign Keratosis,2
+HAM_0001062,ISIC_0027710,bkl,consensus,50.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027710.jpg,Benign Keratosis,2
+HAM_0003982,ISIC_0030056,bkl,consensus,50.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030056.jpg,Benign Keratosis,2
+HAM_0002912,ISIC_0028958,bkl,consensus,60.0,female,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028958.jpg,Benign Keratosis,2
+HAM_0003979,ISIC_0026416,bkl,consensus,45.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026416.jpg,Benign Keratosis,2
+HAM_0007051,ISIC_0031002,df,histo,65.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031002.jpg,Dermatofibroma,3
+HAM_0007051,ISIC_0025668,df,histo,65.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025668.jpg,Dermatofibroma,3
+HAM_0007421,ISIC_0025302,df,histo,60.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025302.jpg,Dermatofibroma,3
+HAM_0006188,ISIC_0024330,df,consensus,40.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024330.jpg,Dermatofibroma,3
+HAM_0006188,ISIC_0027188,df,consensus,40.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027188.jpg,Dermatofibroma,3
+HAM_0004090,ISIC_0031271,df,consensus,45.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031271.jpg,Dermatofibroma,3
+HAM_0005359,ISIC_0030665,df,consensus,55.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030665.jpg,Dermatofibroma,3
+HAM_0000024,ISIC_0027141,df,consensus,45.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027141.jpg,Dermatofibroma,3
+HAM_0003023,ISIC_0031257,df,consensus,55.0,female,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031257.jpg,Dermatofibroma,3
+HAM_0007569,ISIC_0025373,df,consensus,35.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025373.jpg,Dermatofibroma,3
+HAM_0006722,ISIC_0030443,mel,histo,85.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030443.jpg,Melanoma,4
+HAM_0006722,ISIC_0031499,mel,histo,85.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031499.jpg,Melanoma,4
+HAM_0004910,ISIC_0026115,mel,histo,70.0,male,chest,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026115.jpg,Melanoma,4
+HAM_0004910,ISIC_0026281,mel,histo,70.0,male,chest,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026281.jpg,Melanoma,4
+HAM_0000095,ISIC_0033186,mel,histo,55.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033186.jpg,Melanoma,4
+HAM_0001203,ISIC_0025081,mel,histo,30.0,female,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025081.jpg,Melanoma,4
+HAM_0001203,ISIC_0030134,mel,histo,30.0,female,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030134.jpg,Melanoma,4
+HAM_0001913,ISIC_0030798,mel,histo,80.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030798.jpg,Melanoma,4
+HAM_0001353,ISIC_0030759,mel,histo,55.0,female,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030759.jpg,Melanoma,4
+HAM_0001353,ISIC_0024886,mel,histo,55.0,female,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024886.jpg,Melanoma,4
+HAM_0006908,ISIC_0025904,mel,histo,70.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025904.jpg,Melanoma,4
+HAM_0006908,ISIC_0032450,mel,histo,70.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032450.jpg,Melanoma,4
+HAM_0007165,ISIC_0029547,mel,histo,80.0,male,unknown,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0029547.jpg,Melanoma,4
+HAM_0007165,ISIC_0026622,mel,histo,80.0,male,unknown,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026622.jpg,Melanoma,4
+HAM_0007620,ISIC_0030089,mel,histo,55.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030089.jpg,Melanoma,4
+HAM_0007620,ISIC_0027616,mel,histo,55.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027616.jpg,Melanoma,4
+HAM_0005084,ISIC_0027261,mel,histo,75.0,male,ear,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027261.jpg,Melanoma,4
+HAM_0005084,ISIC_0028505,mel,histo,75.0,male,ear,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028505.jpg,Melanoma,4
+HAM_0005381,ISIC_0025153,mel,histo,45.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025153.jpg,Melanoma,4
+HAM_0005381,ISIC_0031598,mel,histo,45.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031598.jpg,Melanoma,4
+HAM_0004676,ISIC_0026247,mel,histo,85.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026247.jpg,Melanoma,4
+HAM_0004676,ISIC_0028467,mel,histo,85.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028467.jpg,Melanoma,4
+HAM_0003330,ISIC_0028696,mel,histo,75.0,male,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028696.jpg,Melanoma,4
+HAM_0003330,ISIC_0029343,mel,histo,75.0,male,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0029343.jpg,Melanoma,4
+HAM_0001729,ISIC_0028325,mel,histo,85.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028325.jpg,Melanoma,4
+HAM_0001729,ISIC_0024537,mel,histo,85.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024537.jpg,Melanoma,4
+HAM_0001409,ISIC_0026188,mel,histo,70.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026188.jpg,Melanoma,4
+HAM_0000878,ISIC_0028746,mel,histo,70.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028746.jpg,Melanoma,4
+HAM_0003983,ISIC_0033975,mel,histo,85.0,male,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033975.jpg,Melanoma,4
+HAM_0003983,ISIC_0033278,mel,histo,85.0,male,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033278.jpg,Melanoma,4
+HAM_0003983,ISIC_0033679,mel,histo,85.0,male,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033679.jpg,Melanoma,4
+HAM_0007032,ISIC_0033034,mel,histo,70.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033034.jpg,Melanoma,4
+HAM_0007032,ISIC_0034294,mel,histo,70.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0034294.jpg,Melanoma,4
+HAM_0007032,ISIC_0034202,mel,histo,70.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0034202.jpg,Melanoma,4
+HAM_0000321,ISIC_0032733,mel,histo,70.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032733.jpg,Melanoma,4
+HAM_0000321,ISIC_0033183,mel,histo,70.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033183.jpg,Melanoma,4
+HAM_0000321,ISIC_0032564,mel,histo,70.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032564.jpg,Melanoma,4
+HAM_0005636,ISIC_0034140,mel,histo,70.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0034140.jpg,Melanoma,4
+HAM_0005636,ISIC_0034256,mel,histo,70.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0034256.jpg,Melanoma,4
+HAM_0005636,ISIC_0032984,mel,histo,70.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032984.jpg,Melanoma,4
+HAM_0002235,ISIC_0034222,mel,histo,30.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0034222.jpg,Melanoma,4
+HAM_0002235,ISIC_0032569,mel,histo,30.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032569.jpg,Melanoma,4
+HAM_0002235,ISIC_0034064,mel,histo,30.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0034064.jpg,Melanoma,4
+HAM_0000319,ISIC_0029209,mel,histo,50.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0029209.jpg,Melanoma,4
+HAM_0000553,ISIC_0034061,mel,histo,55.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0034061.jpg,Melanoma,4
+HAM_0000553,ISIC_0032716,mel,histo,55.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032716.jpg,Melanoma,4
+HAM_0000553,ISIC_0034159,mel,histo,55.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0034159.jpg,Melanoma,4
+HAM_0006763,ISIC_0034005,mel,histo,75.0,male,foot,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0034005.jpg,Melanoma,4
+HAM_0004998,ISIC_0033651,mel,histo,60.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033651.jpg,Melanoma,4
+HAM_0004998,ISIC_0033304,mel,histo,60.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033304.jpg,Melanoma,4
+HAM_0003506,ISIC_0033336,mel,histo,70.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033336.jpg,Melanoma,4
+HAM_0003506,ISIC_0033405,mel,histo,70.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033405.jpg,Melanoma,4
+HAM_0003506,ISIC_0034188,mel,histo,70.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0034188.jpg,Melanoma,4
+HAM_0006437,ISIC_0033469,mel,histo,65.0,female,ear,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033469.jpg,Melanoma,4
+HAM_0003566,ISIC_0032684,mel,histo,50.0,male,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032684.jpg,Melanoma,4
+HAM_0003566,ISIC_0034052,mel,histo,50.0,male,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0034052.jpg,Melanoma,4
+HAM_0003566,ISIC_0033171,mel,histo,50.0,male,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033171.jpg,Melanoma,4
+HAM_0004687,ISIC_0033754,mel,histo,70.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033754.jpg,Melanoma,4
+HAM_0004687,ISIC_0032938,mel,histo,70.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032938.jpg,Melanoma,4
+HAM_0007570,ISIC_0026430,mel,histo,60.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026430.jpg,Melanoma,4
+HAM_0000375,ISIC_0030238,mel,histo,45.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030238.jpg,Melanoma,4
+HAM_0004326,ISIC_0030883,mel,histo,75.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030883.jpg,Melanoma,4
+HAM_0003225,ISIC_0033670,mel,histo,65.0,male,neck,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033670.jpg,Melanoma,4
+HAM_0003225,ISIC_0029740,mel,histo,65.0,male,neck,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0029740.jpg,Melanoma,4
+HAM_0003225,ISIC_0033593,mel,histo,65.0,male,neck,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033593.jpg,Melanoma,4
+HAM_0002617,ISIC_0033957,mel,histo,60.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033957.jpg,Melanoma,4
+HAM_0002617,ISIC_0034172,mel,histo,60.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0034172.jpg,Melanoma,4
+HAM_0002617,ISIC_0033393,mel,histo,60.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033393.jpg,Melanoma,4
+HAM_0000392,ISIC_0034275,mel,histo,70.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0034275.jpg,Melanoma,4
+HAM_0000392,ISIC_0033440,mel,histo,70.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033440.jpg,Melanoma,4
+HAM_0003869,ISIC_0032152,mel,histo,50.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032152.jpg,Melanoma,4
+HAM_0004620,ISIC_0033122,mel,histo,55.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033122.jpg,Melanoma,4
+HAM_0004620,ISIC_0033713,mel,histo,55.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033713.jpg,Melanoma,4
+HAM_0000880,ISIC_0033089,mel,histo,60.0,male,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033089.jpg,Melanoma,4
+HAM_0000880,ISIC_0033562,mel,histo,60.0,male,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033562.jpg,Melanoma,4
+HAM_0000375,ISIC_0031233,mel,histo,45.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031233.jpg,Melanoma,4
+HAM_0004011,ISIC_0033023,mel,histo,80.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033023.jpg,Melanoma,4
+HAM_0004011,ISIC_0033258,mel,histo,80.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033258.jpg,Melanoma,4
+HAM_0001986,ISIC_0025512,mel,histo,50.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025512.jpg,Melanoma,4
+HAM_0001986,ISIC_0024999,mel,histo,50.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024999.jpg,Melanoma,4
+HAM_0004850,ISIC_0026438,mel,histo,30.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026438.jpg,Melanoma,4
+HAM_0004850,ISIC_0028126,mel,histo,30.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028126.jpg,Melanoma,4
+HAM_0003761,ISIC_0025316,mel,histo,45.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025316.jpg,Melanoma,4
+HAM_0003531,ISIC_0031999,mel,histo,40.0,male,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031999.jpg,Melanoma,4
+HAM_0003608,ISIC_0028228,mel,histo,75.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028228.jpg,Melanoma,4
+HAM_0004651,ISIC_0027328,mel,histo,65.0,male,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027328.jpg,Melanoma,4
+HAM_0002375,ISIC_0027442,mel,histo,80.0,male,neck,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027442.jpg,Melanoma,4
+HAM_0002375,ISIC_0024940,mel,histo,80.0,male,neck,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024940.jpg,Melanoma,4
+HAM_0006006,ISIC_0028847,mel,histo,75.0,male,chest,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028847.jpg,Melanoma,4
+HAM_0006006,ISIC_0024961,mel,histo,75.0,male,chest,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024961.jpg,Melanoma,4
+HAM_0002609,ISIC_0029318,mel,histo,60.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0029318.jpg,Melanoma,4
+HAM_0002609,ISIC_0032070,mel,histo,60.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032070.jpg,Melanoma,4
+HAM_0007242,ISIC_0026774,mel,histo,70.0,female,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026774.jpg,Melanoma,4
+HAM_0007242,ISIC_0030047,mel,histo,70.0,female,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030047.jpg,Melanoma,4
+HAM_0004507,ISIC_0029958,mel,histo,65.0,female,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0029958.jpg,Melanoma,4
+HAM_0004507,ISIC_0024554,mel,histo,65.0,female,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024554.jpg,Melanoma,4
+HAM_0003172,ISIC_0025832,mel,histo,65.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025832.jpg,Melanoma,4
+HAM_0003172,ISIC_0026105,mel,histo,65.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026105.jpg,Melanoma,4
+HAM_0003869,ISIC_0025766,mel,histo,50.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025766.jpg,Melanoma,4
+HAM_0004547,ISIC_0031303,mel,histo,65.0,male,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031303.jpg,Melanoma,4
+HAM_0004455,ISIC_0027385,vasc,histo,20.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027385.jpg,Vascular Lesion,6
+HAM_0004455,ISIC_0030882,vasc,histo,20.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030882.jpg,Vascular Lesion,6
+HAM_0005471,ISIC_0028146,vasc,histo,60.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028146.jpg,Vascular Lesion,6
+HAM_0000502,ISIC_0031093,vasc,consensus,70.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031093.jpg,Vascular Lesion,6
+HAM_0000502,ISIC_0029608,vasc,consensus,70.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0029608.jpg,Vascular Lesion,6
+HAM_0004409,ISIC_0027888,vasc,consensus,40.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027888.jpg,Vascular Lesion,6
+HAM_0001038,ISIC_0024706,vasc,consensus,50.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024706.jpg,Vascular Lesion,6
+HAM_0000994,ISIC_0027545,bcc,histo,80.0,male,scalp,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027545.jpg,Basal Cell Carcinoma,1
+HAM_0000994,ISIC_0027609,bcc,histo,80.0,male,scalp,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027609.jpg,Basal Cell Carcinoma,1
+HAM_0001326,ISIC_0031824,bcc,histo,60.0,male,scalp,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031824.jpg,Basal Cell Carcinoma,1
+HAM_0001326,ISIC_0030145,bcc,histo,60.0,male,scalp,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030145.jpg,Basal Cell Carcinoma,1
+HAM_0003593,ISIC_0027478,bcc,histo,40.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027478.jpg,Basal Cell Carcinoma,1
+HAM_0003328,ISIC_0026453,bcc,histo,55.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026453.jpg,Basal Cell Carcinoma,1
+HAM_0003328,ISIC_0031489,bcc,histo,55.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031489.jpg,Basal Cell Carcinoma,1
+HAM_0000823,ISIC_0033271,bcc,histo,75.0,female,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033271.jpg,Basal Cell Carcinoma,1
+HAM_0000823,ISIC_0033575,bcc,histo,75.0,female,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033575.jpg,Basal Cell Carcinoma,1
+HAM_0000823,ISIC_0032894,bcc,histo,75.0,female,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032894.jpg,Basal Cell Carcinoma,1
+HAM_0004435,ISIC_0032146,bcc,histo,80.0,female,neck,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032146.jpg,Basal Cell Carcinoma,1
+HAM_0002069,ISIC_0029331,bcc,histo,50.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0029331.jpg,Basal Cell Carcinoma,1
+HAM_0002024,ISIC_0029412,bcc,histo,80.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0029412.jpg,Basal Cell Carcinoma,1
+HAM_0000968,ISIC_0026074,bcc,histo,40.0,female,chest,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026074.jpg,Basal Cell Carcinoma,1
+HAM_0004711,ISIC_0028197,bcc,histo,85.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028197.jpg,Basal Cell Carcinoma,1
+HAM_0004711,ISIC_0029831,bcc,histo,85.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0029831.jpg,Basal Cell Carcinoma,1
+HAM_0006053,ISIC_0028147,bcc,histo,65.0,female,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028147.jpg,Basal Cell Carcinoma,1
+HAM_0003444,ISIC_0030249,bcc,histo,80.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030249.jpg,Basal Cell Carcinoma,1
+HAM_0006658,ISIC_0026154,bcc,histo,85.0,male,neck,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026154.jpg,Basal Cell Carcinoma,1
+HAM_0003177,ISIC_0031697,bcc,histo,60.0,female,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031697.jpg,Basal Cell Carcinoma,1
+HAM_0003444,ISIC_0028687,bcc,histo,80.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028687.jpg,Basal Cell Carcinoma,1
+HAM_0003444,ISIC_0027120,bcc,histo,80.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027120.jpg,Basal Cell Carcinoma,1
+HAM_0002018,ISIC_0029501,bcc,histo,70.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0029501.jpg,Basal Cell Carcinoma,1
+HAM_0007289,ISIC_0031263,bcc,histo,80.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031263.jpg,Basal Cell Carcinoma,1
+HAM_0004516,ISIC_0025775,nv,follow_up,45.0,female,neck,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025775.jpg,Melanocytic Nevi,5
+HAM_0002623,ISIC_0025384,nv,follow_up,45.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025384.jpg,Melanocytic Nevi,5
+HAM_0004233,ISIC_0029979,nv,follow_up,45.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0029979.jpg,Melanocytic Nevi,5
+HAM_0001335,ISIC_0026555,nv,follow_up,50.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026555.jpg,Melanocytic Nevi,5
+HAM_0003042,ISIC_0031282,nv,follow_up,50.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031282.jpg,Melanocytic Nevi,5
+HAM_0006653,ISIC_0025320,nv,follow_up,45.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025320.jpg,Melanocytic Nevi,5
+HAM_0005853,ISIC_0029569,nv,follow_up,55.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0029569.jpg,Melanocytic Nevi,5
+HAM_0006693,ISIC_0024462,nv,follow_up,45.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024462.jpg,Melanocytic Nevi,5
+HAM_0007230,ISIC_0031164,nv,follow_up,30.0,female,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031164.jpg,Melanocytic Nevi,5
+HAM_0004951,ISIC_0026339,nv,follow_up,50.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026339.jpg,Melanocytic Nevi,5
+HAM_0002508,ISIC_0030428,nv,follow_up,50.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030428.jpg,Melanocytic Nevi,5
+HAM_0005892,ISIC_0024861,nv,follow_up,40.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024861.jpg,Melanocytic Nevi,5
+HAM_0004792,ISIC_0031604,nv,follow_up,50.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031604.jpg,Melanocytic Nevi,5
+HAM_0004419,ISIC_0031331,nv,follow_up,50.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031331.jpg,Melanocytic Nevi,5
+HAM_0001579,ISIC_0025636,nv,follow_up,40.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025636.jpg,Melanocytic Nevi,5
+HAM_0006132,ISIC_0027732,nv,follow_up,45.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027732.jpg,Melanocytic Nevi,5
+HAM_0003302,ISIC_0032434,nv,follow_up,70.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032434.jpg,Melanocytic Nevi,5
+HAM_0003673,ISIC_0030016,nv,follow_up,35.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030016.jpg,Melanocytic Nevi,5
+HAM_0000041,ISIC_0032211,nv,follow_up,45.0,female,scalp,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032211.jpg,Melanocytic Nevi,5
+HAM_0003148,ISIC_0025353,nv,follow_up,55.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025353.jpg,Melanocytic Nevi,5
+HAM_0006192,ISIC_0027416,nv,follow_up,50.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027416.jpg,Melanocytic Nevi,5
+HAM_0002896,ISIC_0030235,nv,follow_up,35.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030235.jpg,Melanocytic Nevi,5
+HAM_0001987,ISIC_0024636,nv,follow_up,45.0,male,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024636.jpg,Melanocytic Nevi,5
+HAM_0003648,ISIC_0031730,nv,follow_up,55.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031730.jpg,Melanocytic Nevi,5
+HAM_0000529,ISIC_0030540,nv,follow_up,45.0,female,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030540.jpg,Melanocytic Nevi,5
+HAM_0001876,ISIC_0030470,nv,follow_up,45.0,female,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030470.jpg,Melanocytic Nevi,5
+HAM_0003375,ISIC_0031422,nv,follow_up,50.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031422.jpg,Melanocytic Nevi,5
+HAM_0004952,ISIC_0028111,nv,follow_up,55.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028111.jpg,Melanocytic Nevi,5
+HAM_0004803,ISIC_0030880,nv,follow_up,55.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030880.jpg,Melanocytic Nevi,5
+HAM_0006671,ISIC_0027843,nv,follow_up,60.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027843.jpg,Melanocytic Nevi,5
+HAM_0000649,ISIC_0027276,nv,follow_up,40.0,female,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027276.jpg,Melanocytic Nevi,5
+HAM_0001387,ISIC_0024879,nv,follow_up,45.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024879.jpg,Melanocytic Nevi,5
+HAM_0001140,ISIC_0024884,nv,follow_up,55.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024884.jpg,Melanocytic Nevi,5
+HAM_0007527,ISIC_0032426,nv,follow_up,45.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032426.jpg,Melanocytic Nevi,5
+HAM_0001661,ISIC_0032059,nv,follow_up,55.0,female,genital,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032059.jpg,Melanocytic Nevi,5
+HAM_0000768,ISIC_0028242,nv,follow_up,35.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028242.jpg,Melanocytic Nevi,5
+HAM_0004009,ISIC_0024856,nv,follow_up,75.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024856.jpg,Melanocytic Nevi,5
+HAM_0001162,ISIC_0029211,nv,follow_up,75.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0029211.jpg,Melanocytic Nevi,5
+HAM_0000232,ISIC_0029950,nv,follow_up,50.0,male,foot,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0029950.jpg,Melanocytic Nevi,5
+HAM_0007469,ISIC_0030049,nv,follow_up,35.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030049.jpg,Melanocytic Nevi,5
+HAM_0003536,ISIC_0028819,nv,follow_up,45.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028819.jpg,Melanocytic Nevi,5
+HAM_0007616,ISIC_0027373,nv,follow_up,55.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027373.jpg,Melanocytic Nevi,5
+HAM_0004533,ISIC_0030871,nv,follow_up,40.0,female,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030871.jpg,Melanocytic Nevi,5
+HAM_0006299,ISIC_0031582,nv,follow_up,40.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031582.jpg,Melanocytic Nevi,5
+HAM_0007093,ISIC_0026858,nv,follow_up,50.0,female,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026858.jpg,Melanocytic Nevi,5
+HAM_0007152,ISIC_0028184,nv,follow_up,20.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028184.jpg,Melanocytic Nevi,5
+HAM_0002562,ISIC_0025024,nv,follow_up,60.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025024.jpg,Melanocytic Nevi,5
+HAM_0001015,ISIC_0028833,nv,follow_up,50.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028833.jpg,Melanocytic Nevi,5
+HAM_0002378,ISIC_0026087,nv,follow_up,50.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026087.jpg,Melanocytic Nevi,5
+HAM_0004135,ISIC_0025634,nv,follow_up,45.0,female,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025634.jpg,Melanocytic Nevi,5
+HAM_0004750,ISIC_0029266,nv,follow_up,45.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0029266.jpg,Melanocytic Nevi,5
+HAM_0002681,ISIC_0029381,nv,follow_up,30.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0029381.jpg,Melanocytic Nevi,5
+HAM_0004964,ISIC_0028062,nv,follow_up,30.0,male,scalp,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028062.jpg,Melanocytic Nevi,5
+HAM_0005166,ISIC_0024815,nv,follow_up,25.0,female,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024815.jpg,Melanocytic Nevi,5
+HAM_0007205,ISIC_0026269,nv,follow_up,60.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026269.jpg,Melanocytic Nevi,5
+HAM_0005172,ISIC_0027156,nv,follow_up,50.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027156.jpg,Melanocytic Nevi,5
+HAM_0004537,ISIC_0026361,nv,follow_up,60.0,male,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026361.jpg,Melanocytic Nevi,5
+HAM_0001959,ISIC_0027600,nv,follow_up,45.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027600.jpg,Melanocytic Nevi,5
+HAM_0005323,ISIC_0027456,nv,follow_up,35.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027456.jpg,Melanocytic Nevi,5
+HAM_0006911,ISIC_0025747,nv,follow_up,35.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025747.jpg,Melanocytic Nevi,5
+HAM_0005802,ISIC_0031173,nv,follow_up,5.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031173.jpg,Melanocytic Nevi,5
+HAM_0003314,ISIC_0026470,nv,follow_up,5.0,male,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026470.jpg,Melanocytic Nevi,5
+HAM_0003772,ISIC_0024379,nv,follow_up,35.0,female,foot,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024379.jpg,Melanocytic Nevi,5
+HAM_0005341,ISIC_0031882,nv,follow_up,60.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031882.jpg,Melanocytic Nevi,5
+HAM_0002262,ISIC_0027307,nv,follow_up,50.0,female,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027307.jpg,Melanocytic Nevi,5
+HAM_0005292,ISIC_0030974,nv,follow_up,45.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030974.jpg,Melanocytic Nevi,5
+HAM_0004307,ISIC_0031714,nv,follow_up,70.0,male,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031714.jpg,Melanocytic Nevi,5
+HAM_0007285,ISIC_0026718,nv,follow_up,55.0,female,genital,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026718.jpg,Melanocytic Nevi,5
+HAM_0007453,ISIC_0024510,nv,follow_up,55.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024510.jpg,Melanocytic Nevi,5
+HAM_0007608,ISIC_0028609,nv,follow_up,55.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028609.jpg,Melanocytic Nevi,5
+HAM_0001882,ISIC_0025866,nv,follow_up,55.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025866.jpg,Melanocytic Nevi,5
+HAM_0007022,ISIC_0026364,nv,follow_up,55.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026364.jpg,Melanocytic Nevi,5
+HAM_0007325,ISIC_0026267,nv,follow_up,55.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026267.jpg,Melanocytic Nevi,5
+HAM_0001438,ISIC_0030490,nv,follow_up,55.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030490.jpg,Melanocytic Nevi,5
+HAM_0007254,ISIC_0027541,nv,follow_up,50.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027541.jpg,Melanocytic Nevi,5
+HAM_0004015,ISIC_0027892,nv,follow_up,50.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027892.jpg,Melanocytic Nevi,5
+HAM_0007297,ISIC_0029940,nv,follow_up,65.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0029940.jpg,Melanocytic Nevi,5
+HAM_0004306,ISIC_0032056,nv,follow_up,65.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032056.jpg,Melanocytic Nevi,5
+HAM_0004981,ISIC_0030493,nv,follow_up,65.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030493.jpg,Melanocytic Nevi,5
+HAM_0000735,ISIC_0029492,nv,follow_up,40.0,female,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0029492.jpg,Melanocytic Nevi,5
+HAM_0000816,ISIC_0027082,nv,follow_up,45.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027082.jpg,Melanocytic Nevi,5
+HAM_0006474,ISIC_0030262,nv,follow_up,40.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030262.jpg,Melanocytic Nevi,5
+HAM_0003717,ISIC_0030414,nv,follow_up,80.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030414.jpg,Melanocytic Nevi,5
+HAM_0001923,ISIC_0029219,nv,follow_up,80.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0029219.jpg,Melanocytic Nevi,5
+HAM_0001857,ISIC_0027317,nv,follow_up,50.0,male,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027317.jpg,Melanocytic Nevi,5
+HAM_0005042,ISIC_0026220,nv,follow_up,60.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026220.jpg,Melanocytic Nevi,5
+HAM_0004540,ISIC_0027357,nv,follow_up,50.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027357.jpg,Melanocytic Nevi,5
+HAM_0000471,ISIC_0031656,nv,follow_up,50.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031656.jpg,Melanocytic Nevi,5
+HAM_0000555,ISIC_0026791,nv,follow_up,60.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026791.jpg,Melanocytic Nevi,5
+HAM_0002747,ISIC_0025242,nv,follow_up,60.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025242.jpg,Melanocytic Nevi,5
+HAM_0007430,ISIC_0029088,nv,follow_up,60.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0029088.jpg,Melanocytic Nevi,5
+HAM_0001691,ISIC_0029264,nv,follow_up,75.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0029264.jpg,Melanocytic Nevi,5
+HAM_0000945,ISIC_0031104,nv,follow_up,60.0,female,foot,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031104.jpg,Melanocytic Nevi,5
+HAM_0005534,ISIC_0032075,nv,follow_up,50.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032075.jpg,Melanocytic Nevi,5
+HAM_0003697,ISIC_0025438,nv,follow_up,40.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025438.jpg,Melanocytic Nevi,5
+HAM_0000428,ISIC_0027936,nv,follow_up,40.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027936.jpg,Melanocytic Nevi,5
+HAM_0001687,ISIC_0027230,nv,follow_up,50.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027230.jpg,Melanocytic Nevi,5
+HAM_0005445,ISIC_0027695,nv,follow_up,40.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027695.jpg,Melanocytic Nevi,5
+HAM_0001432,ISIC_0024393,nv,follow_up,80.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024393.jpg,Melanocytic Nevi,5
+HAM_0003651,ISIC_0026252,nv,follow_up,45.0,male,chest,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026252.jpg,Melanocytic Nevi,5
+HAM_0004262,ISIC_0025236,nv,follow_up,45.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025236.jpg,Melanocytic Nevi,5
+HAM_0006212,ISIC_0029721,nv,follow_up,70.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0029721.jpg,Melanocytic Nevi,5
+HAM_0000853,ISIC_0027153,nv,follow_up,50.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027153.jpg,Melanocytic Nevi,5
+HAM_0004093,ISIC_0030562,nv,follow_up,50.0,female,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030562.jpg,Melanocytic Nevi,5
+HAM_0000991,ISIC_0028275,nv,follow_up,30.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028275.jpg,Melanocytic Nevi,5
+HAM_0000714,ISIC_0027857,nv,follow_up,55.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027857.jpg,Melanocytic Nevi,5
+HAM_0005843,ISIC_0024820,nv,follow_up,50.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024820.jpg,Melanocytic Nevi,5
+HAM_0000359,ISIC_0025701,nv,follow_up,35.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025701.jpg,Melanocytic Nevi,5
+HAM_0003029,ISIC_0025685,nv,follow_up,50.0,female,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025685.jpg,Melanocytic Nevi,5
+HAM_0000901,ISIC_0032120,nv,follow_up,50.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032120.jpg,Melanocytic Nevi,5
+HAM_0004948,ISIC_0025736,nv,follow_up,50.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025736.jpg,Melanocytic Nevi,5
+HAM_0007615,ISIC_0027417,nv,follow_up,40.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027417.jpg,Melanocytic Nevi,5
+HAM_0003612,ISIC_0024456,nv,follow_up,75.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024456.jpg,Melanocytic Nevi,5
+HAM_0000646,ISIC_0025890,nv,follow_up,50.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025890.jpg,Melanocytic Nevi,5
+HAM_0006798,ISIC_0024685,nv,follow_up,55.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024685.jpg,Melanocytic Nevi,5
+HAM_0003467,ISIC_0031089,nv,follow_up,30.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031089.jpg,Melanocytic Nevi,5
+HAM_0001611,ISIC_0031032,nv,follow_up,65.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031032.jpg,Melanocytic Nevi,5
+HAM_0000315,ISIC_0027474,nv,follow_up,45.0,male,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027474.jpg,Melanocytic Nevi,5
+HAM_0005168,ISIC_0028277,nv,follow_up,55.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028277.jpg,Melanocytic Nevi,5
+HAM_0001394,ISIC_0031864,nv,follow_up,55.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031864.jpg,Melanocytic Nevi,5
+HAM_0006337,ISIC_0029106,nv,follow_up,55.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0029106.jpg,Melanocytic Nevi,5
+HAM_0001447,ISIC_0027247,nv,follow_up,45.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027247.jpg,Melanocytic Nevi,5
+HAM_0004154,ISIC_0031471,nv,follow_up,45.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031471.jpg,Melanocytic Nevi,5
+HAM_0007578,ISIC_0030867,nv,follow_up,55.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030867.jpg,Melanocytic Nevi,5
+HAM_0002047,ISIC_0030928,nv,follow_up,55.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030928.jpg,Melanocytic Nevi,5
+HAM_0006441,ISIC_0029016,nv,follow_up,40.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0029016.jpg,Melanocytic Nevi,5
+HAM_0000403,ISIC_0024874,nv,follow_up,45.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024874.jpg,Melanocytic Nevi,5
+HAM_0001659,ISIC_0026564,nv,follow_up,35.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026564.jpg,Melanocytic Nevi,5
+HAM_0006082,ISIC_0027500,nv,follow_up,55.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027500.jpg,Melanocytic Nevi,5
+HAM_0001261,ISIC_0025332,nv,follow_up,55.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025332.jpg,Melanocytic Nevi,5
+HAM_0001194,ISIC_0028991,nv,follow_up,45.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028991.jpg,Melanocytic Nevi,5
+HAM_0006075,ISIC_0026999,nv,follow_up,60.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026999.jpg,Melanocytic Nevi,5
+HAM_0001668,ISIC_0027434,nv,follow_up,40.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027434.jpg,Melanocytic Nevi,5
+HAM_0004798,ISIC_0029103,nv,follow_up,40.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0029103.jpg,Melanocytic Nevi,5
+HAM_0000074,ISIC_0024939,nv,follow_up,45.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024939.jpg,Melanocytic Nevi,5
+HAM_0002155,ISIC_0027696,nv,follow_up,40.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027696.jpg,Melanocytic Nevi,5
+HAM_0007068,ISIC_0024866,nv,follow_up,40.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024866.jpg,Melanocytic Nevi,5
+HAM_0006057,ISIC_0030999,nv,follow_up,55.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030999.jpg,Melanocytic Nevi,5
+HAM_0000469,ISIC_0025408,nv,follow_up,50.0,female,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025408.jpg,Melanocytic Nevi,5
+HAM_0000793,ISIC_0030286,nv,follow_up,60.0,female,genital,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030286.jpg,Melanocytic Nevi,5
+HAM_0001514,ISIC_0024659,nv,follow_up,60.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024659.jpg,Melanocytic Nevi,5
+HAM_0005945,ISIC_0032053,nv,follow_up,50.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032053.jpg,Melanocytic Nevi,5
+HAM_0001718,ISIC_0026357,nv,follow_up,50.0,male,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026357.jpg,Melanocytic Nevi,5
+HAM_0003219,ISIC_0024737,nv,follow_up,50.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024737.jpg,Melanocytic Nevi,5
+HAM_0007472,ISIC_0027274,nv,follow_up,60.0,male,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027274.jpg,Melanocytic Nevi,5
+HAM_0005899,ISIC_0031767,nv,follow_up,60.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031767.jpg,Melanocytic Nevi,5
+HAM_0006762,ISIC_0029467,nv,follow_up,60.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0029467.jpg,Melanocytic Nevi,5
+HAM_0004510,ISIC_0031110,nv,follow_up,60.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031110.jpg,Melanocytic Nevi,5
+HAM_0001676,ISIC_0031587,nv,follow_up,60.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031587.jpg,Melanocytic Nevi,5
+HAM_0001148,ISIC_0030103,nv,follow_up,50.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030103.jpg,Melanocytic Nevi,5
+HAM_0007092,ISIC_0031370,nv,follow_up,50.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031370.jpg,Melanocytic Nevi,5
+HAM_0000533,ISIC_0026380,nv,follow_up,40.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026380.jpg,Melanocytic Nevi,5
+HAM_0007055,ISIC_0031235,nv,follow_up,55.0,female,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031235.jpg,Melanocytic Nevi,5
+HAM_0004715,ISIC_0030494,nv,follow_up,50.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030494.jpg,Melanocytic Nevi,5
+HAM_0002141,ISIC_0029338,nv,follow_up,50.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0029338.jpg,Melanocytic Nevi,5
+HAM_0001286,ISIC_0031846,nv,follow_up,75.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031846.jpg,Melanocytic Nevi,5
+HAM_0006814,ISIC_0032264,nv,follow_up,40.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032264.jpg,Melanocytic Nevi,5
+HAM_0007440,ISIC_0029882,nv,follow_up,50.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0029882.jpg,Melanocytic Nevi,5
+HAM_0006051,ISIC_0030475,nv,follow_up,45.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030475.jpg,Melanocytic Nevi,5
+HAM_0003719,ISIC_0028046,nv,follow_up,45.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028046.jpg,Melanocytic Nevi,5
+HAM_0002373,ISIC_0030703,nv,follow_up,40.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030703.jpg,Melanocytic Nevi,5
+HAM_0004498,ISIC_0025586,nv,follow_up,35.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025586.jpg,Melanocytic Nevi,5
+HAM_0004040,ISIC_0029042,nv,follow_up,35.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0029042.jpg,Melanocytic Nevi,5
+HAM_0007217,ISIC_0024844,nv,follow_up,60.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024844.jpg,Melanocytic Nevi,5
+HAM_0006227,ISIC_0031264,nv,follow_up,45.0,female,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031264.jpg,Melanocytic Nevi,5
+HAM_0006054,ISIC_0030982,nv,follow_up,55.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030982.jpg,Melanocytic Nevi,5
+HAM_0007536,ISIC_0025445,nv,follow_up,55.0,female,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025445.jpg,Melanocytic Nevi,5
+HAM_0007628,ISIC_0027059,nv,follow_up,60.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027059.jpg,Melanocytic Nevi,5
+HAM_0004874,ISIC_0032160,nv,follow_up,65.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032160.jpg,Melanocytic Nevi,5
+HAM_0002694,ISIC_0030100,nv,follow_up,45.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030100.jpg,Melanocytic Nevi,5
+HAM_0001564,ISIC_0027913,nv,follow_up,40.0,male,foot,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027913.jpg,Melanocytic Nevi,5
+HAM_0004022,ISIC_0028134,nv,follow_up,35.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028134.jpg,Melanocytic Nevi,5
+HAM_0005803,ISIC_0028717,nv,follow_up,55.0,male,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028717.jpg,Melanocytic Nevi,5
+HAM_0004868,ISIC_0031538,nv,follow_up,60.0,female,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031538.jpg,Melanocytic Nevi,5
+HAM_0004771,ISIC_0024622,nv,follow_up,55.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024622.jpg,Melanocytic Nevi,5
+HAM_0001639,ISIC_0026160,nv,follow_up,55.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026160.jpg,Melanocytic Nevi,5
+HAM_0006308,ISIC_0030716,nv,follow_up,55.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030716.jpg,Melanocytic Nevi,5
+HAM_0001800,ISIC_0031073,nv,follow_up,45.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031073.jpg,Melanocytic Nevi,5
+HAM_0001533,ISIC_0028244,nv,follow_up,50.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028244.jpg,Melanocytic Nevi,5
+HAM_0000478,ISIC_0025895,nv,follow_up,40.0,female,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025895.jpg,Melanocytic Nevi,5
+HAM_0001569,ISIC_0030994,nv,follow_up,45.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030994.jpg,Melanocytic Nevi,5
+HAM_0005638,ISIC_0030201,nv,follow_up,50.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030201.jpg,Melanocytic Nevi,5
+HAM_0004044,ISIC_0028606,nv,follow_up,30.0,female,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028606.jpg,Melanocytic Nevi,5
+HAM_0004117,ISIC_0024354,nv,follow_up,40.0,female,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024354.jpg,Melanocytic Nevi,5
+HAM_0002071,ISIC_0031616,nv,follow_up,45.0,female,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031616.jpg,Melanocytic Nevi,5
+HAM_0005781,ISIC_0024339,nv,follow_up,50.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024339.jpg,Melanocytic Nevi,5
+HAM_0000043,ISIC_0030152,nv,follow_up,75.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030152.jpg,Melanocytic Nevi,5
+HAM_0003635,ISIC_0024801,nv,follow_up,35.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024801.jpg,Melanocytic Nevi,5
+HAM_0003118,ISIC_0026483,nv,follow_up,65.0,male,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026483.jpg,Melanocytic Nevi,5
+HAM_0001951,ISIC_0030216,nv,follow_up,80.0,male,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030216.jpg,Melanocytic Nevi,5
+HAM_0007345,ISIC_0028703,nv,follow_up,45.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028703.jpg,Melanocytic Nevi,5
+HAM_0000242,ISIC_0028273,nv,follow_up,20.0,female,neck,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028273.jpg,Melanocytic Nevi,5
+HAM_0004037,ISIC_0027383,nv,follow_up,75.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027383.jpg,Melanocytic Nevi,5
+HAM_0004815,ISIC_0031342,nv,follow_up,60.0,male,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031342.jpg,Melanocytic Nevi,5
+HAM_0001315,ISIC_0031628,nv,follow_up,75.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031628.jpg,Melanocytic Nevi,5
+HAM_0001658,ISIC_0030001,nv,follow_up,75.0,male,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030001.jpg,Melanocytic Nevi,5
+HAM_0001516,ISIC_0027830,nv,follow_up,70.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027830.jpg,Melanocytic Nevi,5
+HAM_0005151,ISIC_0030992,nv,follow_up,65.0,male,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030992.jpg,Melanocytic Nevi,5
+HAM_0005844,ISIC_0027918,nv,follow_up,45.0,male,foot,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027918.jpg,Melanocytic Nevi,5
+HAM_0001201,ISIC_0024691,nv,follow_up,50.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024691.jpg,Melanocytic Nevi,5
+HAM_0002893,ISIC_0025037,nv,follow_up,75.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025037.jpg,Melanocytic Nevi,5
+HAM_0004136,ISIC_0029787,nv,follow_up,55.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0029787.jpg,Melanocytic Nevi,5
+HAM_0000495,ISIC_0030200,nv,follow_up,50.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030200.jpg,Melanocytic Nevi,5
+HAM_0004277,ISIC_0026472,nv,follow_up,50.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026472.jpg,Melanocytic Nevi,5
+HAM_0007382,ISIC_0030030,nv,follow_up,50.0,female,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030030.jpg,Melanocytic Nevi,5
+HAM_0000842,ISIC_0025401,nv,follow_up,45.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025401.jpg,Melanocytic Nevi,5
+HAM_0001380,ISIC_0031568,nv,follow_up,45.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031568.jpg,Melanocytic Nevi,5
+HAM_0006313,ISIC_0026926,nv,follow_up,45.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026926.jpg,Melanocytic Nevi,5
+HAM_0003629,ISIC_0024978,nv,follow_up,45.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024978.jpg,Melanocytic Nevi,5
+HAM_0001305,ISIC_0030887,nv,follow_up,55.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030887.jpg,Melanocytic Nevi,5
+HAM_0005235,ISIC_0029437,nv,follow_up,55.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0029437.jpg,Melanocytic Nevi,5
+HAM_0005576,ISIC_0026479,nv,follow_up,50.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026479.jpg,Melanocytic Nevi,5
+HAM_0006680,ISIC_0028458,nv,follow_up,40.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028458.jpg,Melanocytic Nevi,5
+HAM_0001681,ISIC_0024651,nv,follow_up,50.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024651.jpg,Melanocytic Nevi,5
+HAM_0002248,ISIC_0029011,nv,follow_up,40.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0029011.jpg,Melanocytic Nevi,5
+HAM_0001472,ISIC_0024334,nv,follow_up,45.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024334.jpg,Melanocytic Nevi,5
+HAM_0007450,ISIC_0027340,nv,follow_up,45.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027340.jpg,Melanocytic Nevi,5
+HAM_0003075,ISIC_0028553,nv,follow_up,45.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028553.jpg,Melanocytic Nevi,5
+HAM_0004220,ISIC_0027787,nv,follow_up,40.0,male,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027787.jpg,Melanocytic Nevi,5
+HAM_0003417,ISIC_0027891,nv,follow_up,40.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027891.jpg,Melanocytic Nevi,5
+HAM_0000123,ISIC_0032293,nv,follow_up,50.0,female,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032293.jpg,Melanocytic Nevi,5
+HAM_0005460,ISIC_0028199,nv,follow_up,50.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028199.jpg,Melanocytic Nevi,5
+HAM_0006743,ISIC_0030055,nv,follow_up,30.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030055.jpg,Melanocytic Nevi,5
+HAM_0000416,ISIC_0028162,nv,follow_up,45.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028162.jpg,Melanocytic Nevi,5
+HAM_0002687,ISIC_0032037,nv,follow_up,60.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032037.jpg,Melanocytic Nevi,5
+HAM_0003239,ISIC_0024533,nv,follow_up,45.0,male,hand,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024533.jpg,Melanocytic Nevi,5
+HAM_0004312,ISIC_0031768,nv,follow_up,45.0,male,foot,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031768.jpg,Melanocytic Nevi,5
+HAM_0004961,ISIC_0025705,nv,follow_up,55.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025705.jpg,Melanocytic Nevi,5
+HAM_0007482,ISIC_0030004,nv,follow_up,65.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030004.jpg,Melanocytic Nevi,5
+HAM_0007282,ISIC_0025690,nv,follow_up,50.0,male,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025690.jpg,Melanocytic Nevi,5
+HAM_0006198,ISIC_0028676,nv,follow_up,60.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028676.jpg,Melanocytic Nevi,5
+HAM_0005222,ISIC_0026636,nv,follow_up,70.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026636.jpg,Melanocytic Nevi,5
+HAM_0006499,ISIC_0031027,nv,follow_up,40.0,female,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031027.jpg,Melanocytic Nevi,5
+HAM_0004580,ISIC_0030872,nv,follow_up,80.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030872.jpg,Melanocytic Nevi,5
+HAM_0003098,ISIC_0030498,nv,follow_up,80.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030498.jpg,Melanocytic Nevi,5
+HAM_0005832,ISIC_0027286,nv,follow_up,75.0,male,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027286.jpg,Melanocytic Nevi,5
+HAM_0006098,ISIC_0030938,nv,follow_up,75.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030938.jpg,Melanocytic Nevi,5
+HAM_0007347,ISIC_0031054,nv,follow_up,25.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031054.jpg,Melanocytic Nevi,5
+HAM_0001709,ISIC_0030364,nv,follow_up,45.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030364.jpg,Melanocytic Nevi,5
+HAM_0006957,ISIC_0028402,nv,follow_up,45.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028402.jpg,Melanocytic Nevi,5
+HAM_0004361,ISIC_0030515,nv,follow_up,45.0,male,foot,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030515.jpg,Melanocytic Nevi,5
+HAM_0003528,ISIC_0028575,nv,follow_up,55.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028575.jpg,Melanocytic Nevi,5
+HAM_0003573,ISIC_0026447,nv,follow_up,40.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026447.jpg,Melanocytic Nevi,5
+HAM_0007481,ISIC_0026837,nv,follow_up,55.0,male,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026837.jpg,Melanocytic Nevi,5
+HAM_0007267,ISIC_0031441,nv,follow_up,55.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031441.jpg,Melanocytic Nevi,5
+HAM_0000543,ISIC_0030776,nv,follow_up,50.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030776.jpg,Melanocytic Nevi,5
+HAM_0004782,ISIC_0026264,nv,follow_up,75.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026264.jpg,Melanocytic Nevi,5
+HAM_0003471,ISIC_0025284,nv,follow_up,75.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025284.jpg,Melanocytic Nevi,5
+HAM_0006015,ISIC_0025294,nv,follow_up,35.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025294.jpg,Melanocytic Nevi,5
+HAM_0003407,ISIC_0026971,nv,follow_up,35.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026971.jpg,Melanocytic Nevi,5
+HAM_0000890,ISIC_0029185,nv,follow_up,40.0,male,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0029185.jpg,Melanocytic Nevi,5
+HAM_0003166,ISIC_0030848,nv,follow_up,50.0,female,foot,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030848.jpg,Melanocytic Nevi,5
+HAM_0000800,ISIC_0028852,nv,follow_up,20.0,male,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028852.jpg,Melanocytic Nevi,5
+HAM_0004989,ISIC_0028669,nv,follow_up,45.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028669.jpg,Melanocytic Nevi,5
+HAM_0005969,ISIC_0028257,nv,follow_up,35.0,male,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028257.jpg,Melanocytic Nevi,5
+HAM_0006256,ISIC_0027624,nv,follow_up,45.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027624.jpg,Melanocytic Nevi,5
+HAM_0001646,ISIC_0029908,nv,follow_up,50.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0029908.jpg,Melanocytic Nevi,5
+HAM_0001317,ISIC_0027995,nv,follow_up,45.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027995.jpg,Melanocytic Nevi,5
+HAM_0000950,ISIC_0030590,nv,follow_up,35.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030590.jpg,Melanocytic Nevi,5
+HAM_0002360,ISIC_0028024,nv,follow_up,45.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028024.jpg,Melanocytic Nevi,5
+HAM_0004358,ISIC_0025393,nv,follow_up,25.0,female,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025393.jpg,Melanocytic Nevi,5
+HAM_0004751,ISIC_0026776,nv,follow_up,55.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026776.jpg,Melanocytic Nevi,5
+HAM_0005333,ISIC_0032383,nv,follow_up,55.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032383.jpg,Melanocytic Nevi,5
+HAM_0007119,ISIC_0026134,nv,follow_up,40.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026134.jpg,Melanocytic Nevi,5
+HAM_0006360,ISIC_0027926,nv,follow_up,55.0,female,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027926.jpg,Melanocytic Nevi,5
+HAM_0006638,ISIC_0025220,nv,follow_up,55.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025220.jpg,Melanocytic Nevi,5
+HAM_0004051,ISIC_0028049,nv,follow_up,55.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028049.jpg,Melanocytic Nevi,5
+HAM_0005900,ISIC_0028726,nv,follow_up,40.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028726.jpg,Melanocytic Nevi,5
+HAM_0003385,ISIC_0025839,nv,follow_up,40.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025839.jpg,Melanocytic Nevi,5
+HAM_0005808,ISIC_0030496,nv,follow_up,65.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030496.jpg,Melanocytic Nevi,5
+HAM_0004162,ISIC_0031944,nv,follow_up,65.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031944.jpg,Melanocytic Nevi,5
+HAM_0002195,ISIC_0031576,nv,follow_up,50.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031576.jpg,Melanocytic Nevi,5
+HAM_0003956,ISIC_0030190,nv,follow_up,55.0,female,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030190.jpg,Melanocytic Nevi,5
+HAM_0007457,ISIC_0029813,nv,follow_up,35.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0029813.jpg,Melanocytic Nevi,5
+HAM_0004001,ISIC_0029996,nv,follow_up,60.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0029996.jpg,Melanocytic Nevi,5
+HAM_0007094,ISIC_0026785,nv,follow_up,30.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026785.jpg,Melanocytic Nevi,5
+HAM_0000786,ISIC_0028956,nv,follow_up,30.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028956.jpg,Melanocytic Nevi,5
+HAM_0002415,ISIC_0026121,nv,follow_up,30.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026121.jpg,Melanocytic Nevi,5
+HAM_0001795,ISIC_0030611,nv,follow_up,30.0,female,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030611.jpg,Melanocytic Nevi,5
+HAM_0000430,ISIC_0032477,nv,follow_up,35.0,male,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032477.jpg,Melanocytic Nevi,5
+HAM_0003442,ISIC_0027929,nv,follow_up,45.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027929.jpg,Melanocytic Nevi,5
+HAM_0004925,ISIC_0024873,nv,follow_up,35.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024873.jpg,Melanocytic Nevi,5
+HAM_0007290,ISIC_0025961,nv,follow_up,35.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025961.jpg,Melanocytic Nevi,5
+HAM_0004595,ISIC_0027844,nv,follow_up,50.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027844.jpg,Melanocytic Nevi,5
+HAM_0003056,ISIC_0026684,nv,follow_up,40.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026684.jpg,Melanocytic Nevi,5
+HAM_0005468,ISIC_0029785,nv,follow_up,70.0,male,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0029785.jpg,Melanocytic Nevi,5
+HAM_0007277,ISIC_0031195,nv,follow_up,40.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031195.jpg,Melanocytic Nevi,5
+HAM_0001901,ISIC_0026274,nv,follow_up,40.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026274.jpg,Melanocytic Nevi,5
+HAM_0006139,ISIC_0025349,nv,follow_up,50.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025349.jpg,Melanocytic Nevi,5
+HAM_0007156,ISIC_0025893,nv,follow_up,45.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025893.jpg,Melanocytic Nevi,5
+HAM_0006701,ISIC_0029310,nv,follow_up,40.0,female,foot,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0029310.jpg,Melanocytic Nevi,5
+HAM_0000151,ISIC_0029350,nv,follow_up,35.0,female,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0029350.jpg,Melanocytic Nevi,5
+HAM_0004772,ISIC_0027223,nv,follow_up,35.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027223.jpg,Melanocytic Nevi,5
+HAM_0006895,ISIC_0030146,nv,follow_up,65.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030146.jpg,Melanocytic Nevi,5
+HAM_0003295,ISIC_0026110,nv,follow_up,40.0,female,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026110.jpg,Melanocytic Nevi,5
+HAM_0003247,ISIC_0026707,nv,follow_up,40.0,female,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026707.jpg,Melanocytic Nevi,5
+HAM_0001379,ISIC_0030618,nv,follow_up,55.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030618.jpg,Melanocytic Nevi,5
+HAM_0005402,ISIC_0031695,nv,follow_up,45.0,female,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031695.jpg,Melanocytic Nevi,5
+HAM_0002233,ISIC_0025774,nv,follow_up,45.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025774.jpg,Melanocytic Nevi,5
+HAM_0000288,ISIC_0028755,nv,histo,70.0,female,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028755.jpg,Melanocytic Nevi,5
+HAM_0000288,ISIC_0027062,nv,histo,70.0,female,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027062.jpg,Melanocytic Nevi,5
+HAM_0006439,ISIC_0028423,nv,histo,30.0,female,neck,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028423.jpg,Melanocytic Nevi,5
+HAM_0006439,ISIC_0025621,nv,histo,30.0,female,neck,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025621.jpg,Melanocytic Nevi,5
+HAM_0001141,ISIC_0028918,nv,histo,25.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028918.jpg,Melanocytic Nevi,5
+HAM_0001141,ISIC_0030697,nv,histo,25.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030697.jpg,Melanocytic Nevi,5
+HAM_0002120,ISIC_0029735,nv,histo,50.0,male,chest,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0029735.jpg,Melanocytic Nevi,5
+HAM_0002120,ISIC_0028010,nv,histo,50.0,male,chest,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028010.jpg,Melanocytic Nevi,5
+HAM_0004763,ISIC_0029985,nv,histo,55.0,female,scalp,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0029985.jpg,Melanocytic Nevi,5
+HAM_0004763,ISIC_0024891,nv,histo,55.0,female,scalp,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024891.jpg,Melanocytic Nevi,5
+HAM_0000072,ISIC_0028461,nv,histo,60.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028461.jpg,Melanocytic Nevi,5
+HAM_0000072,ISIC_0031474,nv,histo,60.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031474.jpg,Melanocytic Nevi,5
+HAM_0003692,ISIC_0029719,nv,histo,45.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0029719.jpg,Melanocytic Nevi,5
+HAM_0003692,ISIC_0027684,nv,histo,45.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027684.jpg,Melanocytic Nevi,5
+HAM_0005937,ISIC_0027679,nv,histo,35.0,male,foot,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027679.jpg,Melanocytic Nevi,5
+HAM_0001542,ISIC_0026874,nv,histo,80.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026874.jpg,Melanocytic Nevi,5
+HAM_0002159,ISIC_0031059,nv,histo,0.0,male,foot,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031059.jpg,Melanocytic Nevi,5
+HAM_0002159,ISIC_0030355,nv,histo,0.0,male,foot,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030355.jpg,Melanocytic Nevi,5
+HAM_0002097,ISIC_0028636,nv,histo,20.0,female,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028636.jpg,Melanocytic Nevi,5
+HAM_0002097,ISIC_0025687,nv,histo,20.0,female,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025687.jpg,Melanocytic Nevi,5
+HAM_0006484,ISIC_0028527,nv,histo,55.0,female,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028527.jpg,Melanocytic Nevi,5
+HAM_0006484,ISIC_0027244,nv,histo,55.0,female,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027244.jpg,Melanocytic Nevi,5
+HAM_0000928,ISIC_0026777,nv,histo,45.0,female,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026777.jpg,Melanocytic Nevi,5
+HAM_0000928,ISIC_0031268,nv,histo,45.0,female,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031268.jpg,Melanocytic Nevi,5
+HAM_0001160,ISIC_0024340,nv,histo,10.0,female,foot,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024340.jpg,Melanocytic Nevi,5
+HAM_0001160,ISIC_0027361,nv,histo,10.0,female,foot,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027361.jpg,Melanocytic Nevi,5
+HAM_0005519,ISIC_0026215,nv,histo,55.0,female,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026215.jpg,Melanocytic Nevi,5
+HAM_0005519,ISIC_0032029,nv,histo,55.0,female,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032029.jpg,Melanocytic Nevi,5
+HAM_0002541,ISIC_0028098,nv,histo,15.0,female,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028098.jpg,Melanocytic Nevi,5
+HAM_0007300,ISIC_0029179,nv,histo,45.0,male,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0029179.jpg,Melanocytic Nevi,5
+HAM_0007300,ISIC_0025158,nv,histo,45.0,male,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025158.jpg,Melanocytic Nevi,5
+HAM_0007300,ISIC_0025336,nv,histo,45.0,male,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025336.jpg,Melanocytic Nevi,5
+HAM_0003158,ISIC_0025456,nv,histo,30.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025456.jpg,Melanocytic Nevi,5
+HAM_0002009,ISIC_0034290,nv,histo,60.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0034290.jpg,Melanocytic Nevi,5
+HAM_0002009,ISIC_0033165,nv,histo,60.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033165.jpg,Melanocytic Nevi,5
+HAM_0002009,ISIC_0033430,nv,histo,60.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033430.jpg,Melanocytic Nevi,5
+HAM_0007127,ISIC_0032362,nv,histo,35.0,female,chest,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032362.jpg,Melanocytic Nevi,5
+HAM_0002386,ISIC_0033919,nv,histo,65.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033919.jpg,Melanocytic Nevi,5
+HAM_0002386,ISIC_0033640,nv,histo,65.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033640.jpg,Melanocytic Nevi,5
+HAM_0002386,ISIC_0033927,nv,histo,65.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033927.jpg,Melanocytic Nevi,5
+HAM_0000609,ISIC_0025990,nv,histo,75.0,female,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025990.jpg,Melanocytic Nevi,5
+HAM_0000609,ISIC_0025778,nv,histo,75.0,female,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025778.jpg,Melanocytic Nevi,5
+HAM_0000249,ISIC_0027847,nv,histo,65.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027847.jpg,Melanocytic Nevi,5
+HAM_0000249,ISIC_0030709,nv,histo,65.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030709.jpg,Melanocytic Nevi,5
+HAM_0002574,ISIC_0032666,nv,histo,55.0,male,chest,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032666.jpg,Melanocytic Nevi,5
+HAM_0002574,ISIC_0033157,nv,histo,55.0,male,chest,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033157.jpg,Melanocytic Nevi,5
+HAM_0002574,ISIC_0032811,nv,histo,55.0,male,chest,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032811.jpg,Melanocytic Nevi,5
+HAM_0003993,ISIC_0033706,nv,histo,45.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033706.jpg,Melanocytic Nevi,5
+HAM_0003993,ISIC_0033097,nv,histo,45.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033097.jpg,Melanocytic Nevi,5
+HAM_0003993,ISIC_0034014,nv,histo,45.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0034014.jpg,Melanocytic Nevi,5
+HAM_0001218,ISIC_0032864,nv,histo,35.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032864.jpg,Melanocytic Nevi,5
+HAM_0001218,ISIC_0033763,nv,histo,35.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033763.jpg,Melanocytic Nevi,5
+HAM_0001218,ISIC_0033650,nv,histo,35.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033650.jpg,Melanocytic Nevi,5
+HAM_0001246,ISIC_0032822,nv,histo,40.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032822.jpg,Melanocytic Nevi,5
+HAM_0001246,ISIC_0033283,nv,histo,40.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033283.jpg,Melanocytic Nevi,5
+HAM_0001246,ISIC_0033359,nv,histo,40.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033359.jpg,Melanocytic Nevi,5
+HAM_0006120,ISIC_0028684,nv,histo,30.0,female,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028684.jpg,Melanocytic Nevi,5
+HAM_0006120,ISIC_0025372,nv,histo,30.0,female,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025372.jpg,Melanocytic Nevi,5
+HAM_0007278,ISIC_0025009,nv,histo,,female,chest,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025009.jpg,Melanocytic Nevi,5
+HAM_0007483,ISIC_0032942,nv,histo,35.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032942.jpg,Melanocytic Nevi,5
+HAM_0007483,ISIC_0032628,nv,histo,35.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032628.jpg,Melanocytic Nevi,5
+HAM_0006666,ISIC_0034088,nv,histo,35.0,female,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0034088.jpg,Melanocytic Nevi,5
+HAM_0006666,ISIC_0034268,nv,histo,35.0,female,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0034268.jpg,Melanocytic Nevi,5
+HAM_0006666,ISIC_0032908,nv,histo,35.0,female,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032908.jpg,Melanocytic Nevi,5
+HAM_0002139,ISIC_0032786,nv,histo,10.0,female,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032786.jpg,Melanocytic Nevi,5
+HAM_0002139,ISIC_0033788,nv,histo,10.0,female,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033788.jpg,Melanocytic Nevi,5
+HAM_0006873,ISIC_0033637,nv,histo,35.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033637.jpg,Melanocytic Nevi,5
+HAM_0006873,ISIC_0033566,nv,histo,35.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033566.jpg,Melanocytic Nevi,5
+HAM_0004716,ISIC_0033282,nv,histo,40.0,female,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033282.jpg,Melanocytic Nevi,5
+HAM_0004716,ISIC_0032729,nv,histo,40.0,female,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032729.jpg,Melanocytic Nevi,5
+HAM_0004716,ISIC_0033076,nv,histo,40.0,female,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033076.jpg,Melanocytic Nevi,5
+HAM_0003133,ISIC_0032794,nv,histo,30.0,female,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032794.jpg,Melanocytic Nevi,5
+HAM_0003133,ISIC_0032801,nv,histo,30.0,female,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032801.jpg,Melanocytic Nevi,5
+HAM_0005651,ISIC_0028863,nv,histo,45.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028863.jpg,Melanocytic Nevi,5
+HAM_0005651,ISIC_0030126,nv,histo,45.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030126.jpg,Melanocytic Nevi,5
+HAM_0003346,ISIC_0032995,nv,histo,50.0,male,chest,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032995.jpg,Melanocytic Nevi,5
+HAM_0003346,ISIC_0032754,nv,histo,50.0,male,chest,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032754.jpg,Melanocytic Nevi,5
+HAM_0003346,ISIC_0032714,nv,histo,50.0,male,chest,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032714.jpg,Melanocytic Nevi,5
+HAM_0004038,ISIC_0032582,nv,histo,50.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032582.jpg,Melanocytic Nevi,5
+HAM_0004038,ISIC_0033052,nv,histo,50.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033052.jpg,Melanocytic Nevi,5
+HAM_0004038,ISIC_0032990,nv,histo,50.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032990.jpg,Melanocytic Nevi,5
+HAM_0005185,ISIC_0033412,nv,histo,40.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033412.jpg,Melanocytic Nevi,5
+HAM_0005185,ISIC_0033514,nv,histo,40.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033514.jpg,Melanocytic Nevi,5
+HAM_0005185,ISIC_0033876,nv,histo,40.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033876.jpg,Melanocytic Nevi,5
+HAM_0001667,ISIC_0033080,nv,histo,60.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033080.jpg,Melanocytic Nevi,5
+HAM_0001667,ISIC_0034129,nv,histo,60.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0034129.jpg,Melanocytic Nevi,5
+HAM_0001839,ISIC_0033943,nv,histo,70.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033943.jpg,Melanocytic Nevi,5
+HAM_0001839,ISIC_0033434,nv,histo,70.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033434.jpg,Melanocytic Nevi,5
+HAM_0003623,ISIC_0033512,nv,histo,50.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033512.jpg,Melanocytic Nevi,5
+HAM_0003623,ISIC_0032788,nv,histo,50.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032788.jpg,Melanocytic Nevi,5
+HAM_0005887,ISIC_0033221,nv,histo,60.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033221.jpg,Melanocytic Nevi,5
+HAM_0005887,ISIC_0033340,nv,histo,60.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033340.jpg,Melanocytic Nevi,5
+HAM_0003535,ISIC_0033960,nv,histo,35.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033960.jpg,Melanocytic Nevi,5
+HAM_0003535,ISIC_0033259,nv,histo,35.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033259.jpg,Melanocytic Nevi,5
+HAM_0003535,ISIC_0033403,nv,histo,35.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033403.jpg,Melanocytic Nevi,5
+HAM_0001211,ISIC_0033781,nv,histo,50.0,male,chest,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033781.jpg,Melanocytic Nevi,5
+HAM_0004584,ISIC_0034249,nv,consensus,55.0,male,unknown,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0034249.jpg,Melanocytic Nevi,5
+HAM_0003523,ISIC_0030447,nv,histo,40.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030447.jpg,Melanocytic Nevi,5
+HAM_0000312,ISIC_0029654,nv,histo,25.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0029654.jpg,Melanocytic Nevi,5
+HAM_0001136,ISIC_0031848,nv,histo,40.0,male,chest,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031848.jpg,Melanocytic Nevi,5
+HAM_0005007,ISIC_0024668,nv,histo,25.0,female,unknown,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024668.jpg,Melanocytic Nevi,5
+HAM_0001120,ISIC_0025726,nv,histo,40.0,female,chest,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025726.jpg,Melanocytic Nevi,5
+HAM_0000448,ISIC_0026210,nv,histo,25.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026210.jpg,Melanocytic Nevi,5
+HAM_0000448,ISIC_0025100,nv,histo,25.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025100.jpg,Melanocytic Nevi,5
+HAM_0001470,ISIC_0030361,nv,histo,40.0,female,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030361.jpg,Melanocytic Nevi,5
+HAM_0001452,ISIC_0026402,nv,histo,25.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026402.jpg,Melanocytic Nevi,5
+HAM_0007577,ISIC_0030305,nv,histo,25.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030305.jpg,Melanocytic Nevi,5
+HAM_0004864,ISIC_0024682,nv,histo,20.0,female,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024682.jpg,Melanocytic Nevi,5
+HAM_0000354,ISIC_0027348,nv,histo,15.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027348.jpg,Melanocytic Nevi,5
+HAM_0000070,ISIC_0027933,nv,histo,40.0,male,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027933.jpg,Melanocytic Nevi,5
+HAM_0000070,ISIC_0028513,nv,histo,40.0,male,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028513.jpg,Melanocytic Nevi,5
+HAM_0001037,ISIC_0031645,nv,histo,35.0,male,foot,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031645.jpg,Melanocytic Nevi,5
+HAM_0001037,ISIC_0031726,nv,histo,35.0,male,foot,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031726.jpg,Melanocytic Nevi,5
+HAM_0001041,ISIC_0026886,nv,histo,10.0,female,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026886.jpg,Melanocytic Nevi,5
+HAM_0001041,ISIC_0027942,nv,histo,10.0,female,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027942.jpg,Melanocytic Nevi,5
+HAM_0006547,ISIC_0027258,nv,histo,55.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027258.jpg,Melanocytic Nevi,5
+HAM_0006126,ISIC_0027821,nv,histo,40.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027821.jpg,Melanocytic Nevi,5
+HAM_0006126,ISIC_0027715,nv,histo,40.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027715.jpg,Melanocytic Nevi,5
+HAM_0004665,ISIC_0030990,nv,histo,40.0,female,foot,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030990.jpg,Melanocytic Nevi,5
+HAM_0001512,ISIC_0025078,nv,histo,20.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025078.jpg,Melanocytic Nevi,5
+HAM_0001512,ISIC_0025516,nv,histo,20.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025516.jpg,Melanocytic Nevi,5
+HAM_0001512,ISIC_0029835,nv,histo,20.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0029835.jpg,Melanocytic Nevi,5
+HAM_0001512,ISIC_0028101,nv,histo,20.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028101.jpg,Melanocytic Nevi,5
+HAM_0003742,ISIC_0031631,nv,histo,20.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031631.jpg,Melanocytic Nevi,5
+HAM_0003742,ISIC_0027150,nv,histo,20.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027150.jpg,Melanocytic Nevi,5
+HAM_0002979,ISIC_0030588,nv,histo,35.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030588.jpg,Melanocytic Nevi,5
+HAM_0002979,ISIC_0025511,nv,histo,35.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025511.jpg,Melanocytic Nevi,5
+HAM_0000025,ISIC_0024349,nv,histo,35.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024349.jpg,Melanocytic Nevi,5
+HAM_0000025,ISIC_0026126,nv,histo,35.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026126.jpg,Melanocytic Nevi,5
+HAM_0000025,ISIC_0028271,nv,histo,35.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028271.jpg,Melanocytic Nevi,5
+HAM_0000391,ISIC_0031857,nv,histo,25.0,female,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031857.jpg,Melanocytic Nevi,5
+HAM_0000391,ISIC_0028621,nv,histo,25.0,female,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028621.jpg,Melanocytic Nevi,5
+HAM_0000391,ISIC_0025683,nv,histo,25.0,female,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025683.jpg,Melanocytic Nevi,5
+HAM_0006760,ISIC_0031559,nv,histo,35.0,female,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031559.jpg,Melanocytic Nevi,5
+HAM_0007480,ISIC_0024406,nv,histo,35.0,male,foot,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024406.jpg,Melanocytic Nevi,5
+HAM_0007160,ISIC_0028723,nv,histo,30.0,female,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028723.jpg,Melanocytic Nevi,5
+HAM_0005855,ISIC_0031727,nv,histo,60.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031727.jpg,Melanocytic Nevi,5
+HAM_0001555,ISIC_0027236,nv,histo,35.0,female,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027236.jpg,Melanocytic Nevi,5
+HAM_0005643,ISIC_0032015,nv,histo,50.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032015.jpg,Melanocytic Nevi,5
+HAM_0002142,ISIC_0025960,nv,histo,75.0,male,ear,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025960.jpg,Melanocytic Nevi,5
+HAM_0007278,ISIC_0032300,nv,histo,,female,chest,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032300.jpg,Melanocytic Nevi,5
+HAM_0003727,ISIC_0026404,nv,histo,60.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026404.jpg,Melanocytic Nevi,5
+HAM_0005568,ISIC_0032047,nv,histo,50.0,female,unknown,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032047.jpg,Melanocytic Nevi,5
+HAM_0001361,ISIC_0030117,nv,histo,45.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030117.jpg,Melanocytic Nevi,5
+HAM_0005429,ISIC_0029452,nv,histo,60.0,female,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0029452.jpg,Melanocytic Nevi,5
+HAM_0004897,ISIC_0024352,nv,histo,30.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024352.jpg,Melanocytic Nevi,5
+HAM_0004897,ISIC_0026293,nv,histo,30.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026293.jpg,Melanocytic Nevi,5
+HAM_0000287,ISIC_0031019,nv,histo,70.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031019.jpg,Melanocytic Nevi,5
+HAM_0007066,ISIC_0029959,nv,histo,40.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0029959.jpg,Melanocytic Nevi,5
+HAM_0006110,ISIC_0025289,nv,histo,50.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025289.jpg,Melanocytic Nevi,5
+HAM_0005183,ISIC_0029696,nv,histo,65.0,female,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0029696.jpg,Melanocytic Nevi,5
+HAM_0005730,ISIC_0031710,nv,histo,65.0,male,chest,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031710.jpg,Melanocytic Nevi,5
+HAM_0005730,ISIC_0028923,nv,histo,65.0,male,chest,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028923.jpg,Melanocytic Nevi,5
+HAM_0000347,ISIC_0029665,nv,histo,45.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0029665.jpg,Melanocytic Nevi,5
+HAM_0004802,ISIC_0026551,nv,histo,45.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026551.jpg,Melanocytic Nevi,5
+HAM_0004802,ISIC_0024596,nv,histo,45.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024596.jpg,Melanocytic Nevi,5
+HAM_0004802,ISIC_0030966,nv,histo,45.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030966.jpg,Melanocytic Nevi,5
+HAM_0000039,ISIC_0026103,nv,histo,40.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026103.jpg,Melanocytic Nevi,5
+HAM_0002517,ISIC_0031838,nv,histo,60.0,male,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031838.jpg,Melanocytic Nevi,5
+HAM_0006941,ISIC_0025684,nv,histo,45.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025684.jpg,Melanocytic Nevi,5
+HAM_0004836,ISIC_0026674,nv,histo,35.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026674.jpg,Melanocytic Nevi,5
+HAM_0002423,ISIC_0031924,nv,histo,30.0,female,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031924.jpg,Melanocytic Nevi,5
+HAM_0002423,ISIC_0028963,nv,histo,30.0,female,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028963.jpg,Melanocytic Nevi,5
+HAM_0002423,ISIC_0025088,nv,histo,30.0,female,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025088.jpg,Melanocytic Nevi,5
+HAM_0004372,ISIC_0026964,nv,histo,65.0,male,scalp,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026964.jpg,Melanocytic Nevi,5
+HAM_0004372,ISIC_0030167,nv,histo,65.0,male,scalp,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030167.jpg,Melanocytic Nevi,5
+HAM_0001361,ISIC_0026076,nv,histo,45.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026076.jpg,Melanocytic Nevi,5
+HAM_0006366,ISIC_0030732,nv,histo,65.0,female,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030732.jpg,Melanocytic Nevi,5
+HAM_0004836,ISIC_0025533,nv,histo,35.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025533.jpg,Melanocytic Nevi,5
+HAM_0000759,ISIC_0030792,nv,histo,80.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030792.jpg,Melanocytic Nevi,5
+HAM_0000759,ISIC_0025655,nv,histo,80.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025655.jpg,Melanocytic Nevi,5
+HAM_0003940,ISIC_0031754,nv,histo,25.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031754.jpg,Melanocytic Nevi,5
+HAM_0003940,ISIC_0029803,nv,histo,25.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0029803.jpg,Melanocytic Nevi,5
+HAM_0006613,ISIC_0031894,nv,histo,25.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031894.jpg,Melanocytic Nevi,5
+HAM_0002429,ISIC_0028139,nv,histo,35.0,female,hand,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028139.jpg,Melanocytic Nevi,5
+HAM_0006300,ISIC_0028281,nv,histo,35.0,female,chest,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028281.jpg,Melanocytic Nevi,5
+HAM_0001989,ISIC_0030251,nv,histo,65.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030251.jpg,Melanocytic Nevi,5
+HAM_0000922,ISIC_0031301,nv,histo,55.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031301.jpg,Melanocytic Nevi,5
+HAM_0000922,ISIC_0031111,nv,histo,55.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031111.jpg,Melanocytic Nevi,5
+HAM_0000976,ISIC_0030833,nv,histo,40.0,male,chest,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030833.jpg,Melanocytic Nevi,5
+HAM_0005828,ISIC_0026554,nv,histo,75.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026554.jpg,Melanocytic Nevi,5
+HAM_0005828,ISIC_0031085,nv,histo,75.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031085.jpg,Melanocytic Nevi,5
+HAM_0003451,ISIC_0027298,nv,histo,70.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027298.jpg,Melanocytic Nevi,5
+HAM_0005429,ISIC_0028261,nv,histo,60.0,female,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028261.jpg,Melanocytic Nevi,5
+HAM_0003451,ISIC_0027098,nv,histo,70.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027098.jpg,Melanocytic Nevi,5
+HAM_0003523,ISIC_0026179,nv,histo,40.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026179.jpg,Melanocytic Nevi,5
+HAM_0000521,ISIC_0032148,nv,histo,55.0,male,chest,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032148.jpg,Melanocytic Nevi,5
+HAM_0000521,ISIC_0031889,nv,histo,55.0,male,chest,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031889.jpg,Melanocytic Nevi,5
+HAM_0005848,ISIC_0025517,nv,histo,50.0,male,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025517.jpg,Melanocytic Nevi,5
+HAM_0005848,ISIC_0030553,nv,histo,50.0,male,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030553.jpg,Melanocytic Nevi,5
+HAM_0000287,ISIC_0027203,nv,histo,70.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027203.jpg,Melanocytic Nevi,5
+HAM_0000976,ISIC_0031880,nv,histo,40.0,male,chest,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031880.jpg,Melanocytic Nevi,5
+HAM_0004614,ISIC_0030151,nv,histo,65.0,female,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030151.jpg,Melanocytic Nevi,5
+HAM_0006114,ISIC_0027873,nv,histo,30.0,female,foot,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027873.jpg,Melanocytic Nevi,5
+HAM_0003710,ISIC_0031611,nv,histo,60.0,male,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031611.jpg,Melanocytic Nevi,5
+HAM_0003710,ISIC_0032074,nv,histo,60.0,male,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032074.jpg,Melanocytic Nevi,5
+HAM_0000562,ISIC_0026166,nv,histo,55.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026166.jpg,Melanocytic Nevi,5
+HAM_0003790,ISIC_0028131,nv,histo,65.0,male,chest,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028131.jpg,Melanocytic Nevi,5
+HAM_0001933,ISIC_0025243,nv,histo,70.0,female,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025243.jpg,Melanocytic Nevi,5
+HAM_0001679,ISIC_0027783,nv,histo,50.0,female,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027783.jpg,Melanocytic Nevi,5
+HAM_0006599,ISIC_0025141,nv,consensus,60.0,female,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025141.jpg,Melanocytic Nevi,5
+HAM_0006599,ISIC_0026660,nv,consensus,60.0,female,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026660.jpg,Melanocytic Nevi,5
+HAM_0004604,ISIC_0027133,nv,consensus,5.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027133.jpg,Melanocytic Nevi,5
+HAM_0004604,ISIC_0028756,nv,consensus,5.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028756.jpg,Melanocytic Nevi,5
+HAM_0002768,ISIC_0026657,nv,consensus,60.0,female,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026657.jpg,Melanocytic Nevi,5
+HAM_0002768,ISIC_0028067,nv,consensus,60.0,female,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028067.jpg,Melanocytic Nevi,5
+HAM_0004475,ISIC_0029920,nv,consensus,85.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0029920.jpg,Melanocytic Nevi,5
+HAM_0004475,ISIC_0031188,nv,consensus,85.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031188.jpg,Melanocytic Nevi,5
+HAM_0000378,ISIC_0032388,nv,consensus,5.0,male,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032388.jpg,Melanocytic Nevi,5
+HAM_0000378,ISIC_0031973,nv,consensus,5.0,male,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031973.jpg,Melanocytic Nevi,5
+HAM_0007566,ISIC_0030479,nv,consensus,50.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030479.jpg,Melanocytic Nevi,5
+HAM_0007566,ISIC_0028834,nv,consensus,50.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028834.jpg,Melanocytic Nevi,5
+HAM_0006218,ISIC_0032589,nv,consensus,70.0,male,trunk,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032589.jpg,Melanocytic Nevi,5
+HAM_0003356,ISIC_0033105,nv,consensus,45.0,female,unknown,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033105.jpg,Melanocytic Nevi,5
+HAM_0003364,ISIC_0033474,nv,consensus,45.0,female,unknown,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033474.jpg,Melanocytic Nevi,5
+HAM_0003356,ISIC_0032572,nv,consensus,45.0,female,unknown,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032572.jpg,Melanocytic Nevi,5
+HAM_0003540,ISIC_0029808,nv,consensus,75.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0029808.jpg,Melanocytic Nevi,5
+HAM_0007206,ISIC_0031524,nv,consensus,60.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031524.jpg,Melanocytic Nevi,5
+HAM_0002425,ISIC_0032837,nv,consensus,20.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032837.jpg,Melanocytic Nevi,5
+HAM_0002425,ISIC_0032682,nv,consensus,20.0,male,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032682.jpg,Melanocytic Nevi,5
+HAM_0001613,ISIC_0033542,nv,consensus,65.0,male,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033542.jpg,Melanocytic Nevi,5
+HAM_0001613,ISIC_0032748,nv,consensus,65.0,male,abdomen,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032748.jpg,Melanocytic Nevi,5
+HAM_0004351,ISIC_0034193,nv,consensus,40.0,female,unknown,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0034193.jpg,Melanocytic Nevi,5
+HAM_0003815,ISIC_0024715,nv,consensus,40.0,male,unknown,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024715.jpg,Melanocytic Nevi,5
+HAM_0006235,ISIC_0033681,nv,consensus,60.0,male,unknown,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033681.jpg,Melanocytic Nevi,5
+HAM_0004205,ISIC_0033797,nv,consensus,40.0,female,unknown,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033797.jpg,Melanocytic Nevi,5
+HAM_0004204,ISIC_0033772,nv,consensus,40.0,female,unknown,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033772.jpg,Melanocytic Nevi,5
+HAM_0004188,ISIC_0032996,nv,consensus,40.0,female,unknown,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032996.jpg,Melanocytic Nevi,5
+HAM_0004198,ISIC_0033481,nv,consensus,40.0,female,unknown,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033481.jpg,Melanocytic Nevi,5
+HAM_0004508,ISIC_0033628,nv,consensus,,unknown,unknown,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033628.jpg,Melanocytic Nevi,5
+HAM_0001000,ISIC_0033353,nv,consensus,,unknown,unknown,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033353.jpg,Melanocytic Nevi,5
+HAM_0000627,ISIC_0034019,nv,consensus,,unknown,unknown,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0034019.jpg,Melanocytic Nevi,5
+HAM_0001366,ISIC_0032814,nv,consensus,,unknown,unknown,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032814.jpg,Melanocytic Nevi,5
+HAM_0001393,ISIC_0027418,nv,consensus,55.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027418.jpg,Melanocytic Nevi,5
+HAM_0001393,ISIC_0029030,nv,consensus,55.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0029030.jpg,Melanocytic Nevi,5
+HAM_0000549,ISIC_0029360,akiec,histo,70.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0029360.jpg,Actinic Keratosis,0
+HAM_0000549,ISIC_0026152,akiec,histo,70.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026152.jpg,Actinic Keratosis,0
+HAM_0001499,ISIC_0031929,akiec,histo,65.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031929.jpg,Actinic Keratosis,0
+HAM_0004012,ISIC_0030803,akiec,histo,65.0,female,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030803.jpg,Actinic Keratosis,0
+HAM_0004012,ISIC_0025831,akiec,histo,65.0,female,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025831.jpg,Actinic Keratosis,0
+HAM_0007601,ISIC_0032437,akiec,histo,65.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032437.jpg,Actinic Keratosis,0
+HAM_0006222,ISIC_0025069,akiec,histo,75.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025069.jpg,Actinic Keratosis,0
+HAM_0003123,ISIC_0028816,akiec,histo,60.0,male,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028816.jpg,Actinic Keratosis,0
+HAM_0003123,ISIC_0028232,akiec,histo,60.0,male,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0028232.jpg,Actinic Keratosis,0
+HAM_0005958,ISIC_0027577,akiec,histo,55.0,male,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027577.jpg,Actinic Keratosis,0
+HAM_0002185,ISIC_0030794,akiec,histo,65.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030794.jpg,Actinic Keratosis,0
+HAM_0003086,ISIC_0032349,akiec,histo,60.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032349.jpg,Actinic Keratosis,0
+HAM_0001173,ISIC_0030827,akiec,histo,40.0,female,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030827.jpg,Actinic Keratosis,0
+HAM_0005117,ISIC_0025712,akiec,histo,70.0,female,chest,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025712.jpg,Actinic Keratosis,0
+HAM_0004558,ISIC_0030341,akiec,histo,70.0,female,back,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030341.jpg,Actinic Keratosis,0
+HAM_0005255,ISIC_0025811,akiec,histo,55.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025811.jpg,Actinic Keratosis,0
+HAM_0002882,ISIC_0026014,akiec,histo,85.0,male,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0026014.jpg,Actinic Keratosis,0
+HAM_0002094,ISIC_0030549,akiec,histo,50.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030549.jpg,Actinic Keratosis,0
+HAM_0007601,ISIC_0027447,akiec,histo,65.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027447.jpg,Actinic Keratosis,0
+HAM_0007601,ISIC_0027536,akiec,histo,65.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027536.jpg,Actinic Keratosis,0
+HAM_0001004,ISIC_0025790,akiec,histo,75.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025790.jpg,Actinic Keratosis,0
+HAM_0001004,ISIC_0024923,akiec,histo,75.0,female,lower extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0024923.jpg,Actinic Keratosis,0
+HAM_0005255,ISIC_0030158,akiec,histo,55.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0030158.jpg,Actinic Keratosis,0
+HAM_0006887,ISIC_0031993,akiec,histo,45.0,male,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031993.jpg,Actinic Keratosis,0
+HAM_0006887,ISIC_0029500,akiec,histo,45.0,male,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0029500.jpg,Actinic Keratosis,0
+HAM_0001277,ISIC_0031927,akiec,histo,75.0,male,chest,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0031927.jpg,Actinic Keratosis,0
+HAM_0007622,ISIC_0027562,akiec,histo,60.0,female,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0027562.jpg,Actinic Keratosis,0
+HAM_0001416,ISIC_0025427,akiec,histo,85.0,male,upper extremity,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_1\ISIC_0025427.jpg,Actinic Keratosis,0
+HAM_0000239,ISIC_0033866,akiec,histo,80.0,male,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0033866.jpg,Actinic Keratosis,0
+HAM_0000239,ISIC_0032854,akiec,histo,80.0,male,face,C:\Users\rajat\OneDrive\Desktop\Skin Cancer MNIST HAM10000\datasets\HAM10000_images_part_2\ISIC_0032854.jpg,Actinic Keratosis,0

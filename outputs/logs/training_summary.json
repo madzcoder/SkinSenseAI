@@ -1,0 +1,11 @@
+{
+    "model": "mobilenet_v3",
+    "best_val_acc": 0.80125,
+    "test_acc_float": 0.8000979911807937,
+    "test_acc_quant": 0.8074473297403234,
+    "training_time": "0:17:31.327146",
+    "epochs_trained": 30,
+    "final_lr": 0.0,
+    "qat_enabled": true,
+    "qat_backend": "onednn"
+}
